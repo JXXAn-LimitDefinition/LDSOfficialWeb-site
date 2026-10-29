@@ -1,0 +1,1 @@
+function e(e,t){if(!e.startsWith(`/`)||e.startsWith(`//`))return e;let n=`/${t.replace(/^\/+|\/+$/g,``)}/`.replace(/^\/\//,`/`);return n===`/`||e.startsWith(n)?e:n+e.slice(1)}var t=t=>e(t,`/LDSOfficialWeb-site/`);export{t};
