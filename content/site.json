@@ -17,15 +17,15 @@
     ],
     "officialLinks": [
       {
-        "label": "抖音",
+        "label": "前往抖音官方",
         "url": "https://v.douyin.com/ZIpBThJXxxA/"
       }
     ]
   },
   "home": {
-    "brandTitle": "极限定义",
-    "identity": "独立游戏工作室",
-    "gameDescription": "古希腊神话 · HD-2D 横版动作",
+    "brandTitle": "极限定义独立游戏工作室",
+    "identity": "LimitDefinitionGameStudio",
+    "gameDescription": "古希腊神话 · HD-2D 横版动作肉鸽",
     "studioHeading": "我们是极限定义",
     "genreLabel": "类型",
     "experienceLabel": "体验"
@@ -88,9 +88,9 @@
     ]
   },
   "labels": {
-    "navWorks": "作品",
-    "navStudio": "工作室",
-    "navContact": "联系",
+    "navWorks": "作品合集",
+    "navStudio": "工作室介绍",
+    "navContact": "联系我们",
     "trial": "试玩 Demo",
     "explore": "探索作品",
     "gameDetails": "了解《提洛之子》",
@@ -102,7 +102,7 @@
     "contactHeading": "合作与联系",
     "copyEmail": "复制邮箱",
     "officialTapTap": "在 TapTap 找到我们",
-    "coverExplore": "探索提洛",
+    "coverExplore": "探索提洛岛",
     "endTrial": "前往 TapTap 试玩"
   },
   "seo": {
@@ -172,6 +172,35 @@
             "description": "穿行破碎的提洛岛，体验横版战斗与平台跳跃。试玩 Demo 已在 TapTap 提供下载。"
           }
         ]
+      }
+    },
+    {
+      "id": "game-3e2933a4",
+      "slug": "game-3e2933a4",
+      "visibility": "development",
+      "data": {
+        "title": "逆十字复仇",
+        "subtitle": "",
+        "genre": "",
+        "availability": "",
+        "shortDescription": "",
+        "developerNote": "",
+        "tags": [],
+        "description": "",
+        "storyHeading": "关于作品",
+        "galleryHeading": "游戏画面",
+        "galleryDescription": "",
+        "endHeading": "了解更多",
+        "taptapUrl": "",
+        "cover": "",
+        "coverAlt": "未命名作品",
+        "trailer": {
+          "src": "",
+          "title": "宣传片",
+          "description": ""
+        },
+        "screenshots": [],
+        "features": []
       }
     }
   ],
