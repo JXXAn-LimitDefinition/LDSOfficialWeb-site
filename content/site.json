@@ -7,7 +7,7 @@
     "description": "我们是极限定义游戏工作室，一支探索游戏可能性的独立创作团队。首部作品《提洛之子》已经与玩家见面，一段新的旅程也正在酝酿。",
     "intro": "穿行星空与时空碎片，发现属于我们的游戏世界。",
     "upcoming": {
-      "title": "研发中",
+      "title": "敬请期待！",
       "description": ""
     },
     "cooperationDescription": "如果你想了解我们的作品，或探讨合作的可能，欢迎与我们相遇。",
@@ -179,7 +179,7 @@
       "slug": "game-3e2933a4",
       "visibility": "development",
       "data": {
-        "title": "逆十字复仇",
+        "title": "萝尔悲歌",
         "subtitle": "",
         "genre": "",
         "availability": "",
@@ -213,8 +213,8 @@
   },
   "scene": {
     "starDensity": 1,
-    "starSpeed": 1,
-    "galaxySpeed": 1,
+    "starSpeed": 2,
+    "galaxySpeed": 2,
     "pointerIntensity": 1,
     "assemblySpeed": 1,
     "glassThickness": 0.14,
